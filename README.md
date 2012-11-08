@@ -1,2 +1,2 @@
-VeloxBackOffice <3 
+VeloxBackOffice
 ===============

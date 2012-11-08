@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>VeloxBackOffice</name>
+=======
 	<name>zelezele</name>
+>>>>>>> 0c2611e611238ee1673ad6be75a69bba32b12662
 	<comment></comment>
 	<projects>
 	</projects>
